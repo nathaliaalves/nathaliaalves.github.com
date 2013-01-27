@@ -41,7 +41,7 @@ a {
 a small {
   font-size:11px;
   color:#777;
-  margin-top:-0.0em;
+  margin-top:-0.6em;
   display:block;
 }
 
@@ -96,7 +96,7 @@ img {
 }
 
 header {
-  width:200px;
+  width:20px;
   float:left;
   position:fixed;
 }
